@@ -1,0 +1,6 @@
+Resolusi DGTR di 2020:
+- Mengejar ketertinggalan mengenai web programing
+- Belajar ASP.Net untuk Mengerjakan Project di tempat kerja.
+- Memperdalam tentang PHP Framework Khususnya Laravel
+- Memperdalam Javascript
+- Memperdalam tentang database, API & JSON.
