@@ -1,0 +1,4 @@
+Rencana Pertama
+
+- Belajar Standarisasi Web
+  * Membuat penamaan database standart KALBE
