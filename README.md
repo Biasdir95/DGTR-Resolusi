@@ -1,2 +1,1 @@
-# oeedash
-Project Pertama
+Berlelah-lelahlah, manisnya hidup terasa setelah BERJUANG.
